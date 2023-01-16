@@ -2,7 +2,7 @@
 Cloud Computing COMS6998 Assignment 2
 
 Vikram Kumar - vk2503\
-Saravanan Thanu - st3523\
+Saravanan Thanu - st3523
 
 
 URL: http://photoappst3523.s3-website-us-east-1.amazonaws.com
